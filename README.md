@@ -1,6 +1,6 @@
 # Laravel vite
 
-Base installation of Laravel 9 with Jetsteam (Livewire) starter kit. Vite is now the frontend asset bundler.
+Base installation of Laravel 9 with Jetstream (Livewire) starter kit. Vite is now the frontend asset bundler.
 
 This base site will allow a comparison with existing projects when a know working example is required.
 
